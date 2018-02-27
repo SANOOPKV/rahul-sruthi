@@ -1,0 +1,139 @@
+.wrapper-container {
+    background: white;
+}
+
+.content-container {
+    background: white;
+    padding-top: 15px;
+}
+
+.save {
+    background: #33d9b2;
+}
+
+.save::after {
+    content: "Save";
+    font-size: 6rem;
+    color: white;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.the {
+    background: #33d9b2;
+    margin-top: -90px;
+}
+
+.the::after {
+    content: "the";
+    font-size: 6rem;
+    color: white;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.date {
+    background: #33d9b2;
+    margin-top: -90px;
+}
+
+.date::after {
+    content: "Date";
+    font-size: 6rem;
+    color: white;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.names-wrapper {
+    font-size: 2rem;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+.date-wrapper {
+    font-size: 1rem;
+    color: white;
+    font-family: cursive;
+    font-weight: bold;
+    color: #303952;
+    text-align: center;
+}
+
+.margin-bottom-5vh {
+    margin-bottom: 5vh;
+}
+
+.day-num::after {
+    content: "09";
+    font-size: 2rem;
+}
+
+.year-num::after {
+    content: "2018";
+    font-size: 2rem;
+}
+
+.date-num-from::after {
+    content: "5 PM";
+    font-size: 1rem;
+}
+
+.date-num-to::after {
+    content: "9 PM";
+    font-size: 1rem;
+}
+
+.date-num-from-large::after {
+    content: "5 PM";
+    font-size: 2rem;
+}
+
+.date-num-to-large::after {
+    content: "9 PM";
+    font-size: 2rem;
+}
+
+.groom-name::after {
+    content: "\002661";
+}
+
+
+/*
+.names-wrapper::after {
+    color: #706fd3;
+}*/
+
+.baloon-large {
+    background-image: url(15-balloon-png-image.png);
+    background: #33d9b2;
+    padding-top: 2vh;
+    padding-left: 0px !important;
+    padding-bottom: 15px;
+}
+
+.baloon {
+    background-image: url(15-balloon-png-image.png);
+    background: #33d9b2;
+    padding-top: 10px;
+}
+
+.green-bg {
+    background: #33d9b2;
+    color: white;
+}
+
+.violet-bg {
+    color: #33d9b2;
+    background: #303952;
+}
+
+.phone-icon {
+    color: #303952;
+}
+
+.anchor {
+    text-decoration: none;
+    color: #303952;
+}
