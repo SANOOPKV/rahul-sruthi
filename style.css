@@ -111,12 +111,16 @@
     padding-top: 2vh;
     padding-left: 0px !important;
     padding-bottom: 15px;
+    border: 1px solid #303952;
 }
 
 .baloon {
     background-image: url(15-balloon-png-image.png);
     background: #33d9b2;
-    padding-top: 10px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    border-top: 5px solid #303952;
+    border-bottom: 5px solid #303952;
 }
 
 .green-bg {
@@ -131,9 +135,11 @@
 
 .phone-icon {
     color: #303952;
+    padding: 5px;
 }
 
 .anchor {
     text-decoration: none;
     color: #303952;
+    font-family: cursive;
 }
